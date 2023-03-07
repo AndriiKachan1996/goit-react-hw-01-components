@@ -1,6 +1,8 @@
 import styled from 'styled-components';
 
 export const TransTabel = styled.table`
+  margin-bottom: 50px;
+
   border-radius: 5px;
   box-shadow: 0 0 6px 0 rgb(0 0 0 / 30%);
   font-size: 14px;
