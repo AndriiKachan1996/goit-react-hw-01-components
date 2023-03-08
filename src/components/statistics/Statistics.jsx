@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { generateRandomColor } from 'components/utils/randomColor';
+import { generateRandomColor } from 'utils/randomColor';
 import {
   Section,
   Span,
